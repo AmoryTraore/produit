@@ -1,11 +1,11 @@
 <?php
 
-namespace Sm\Produit\Http\Controller\Produit;
+namespace Amorytraore\Produit\Http\Controller\Produit;
 
 use Illuminate\Http\Request;
 
-use Sm\Produit\Model\Produit;
-use Sm\Produit\Model\Categorie;
+use Amorytraore\Produit\Model\Produit;
+use Amorytraore\Produit\Model\Categorie;
 use App\Http\Controllers\Controller;
 use Session;
 

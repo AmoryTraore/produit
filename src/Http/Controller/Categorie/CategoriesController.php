@@ -1,9 +1,9 @@
 <?php
 
-namespace Sm\Produit\Http\Controller\Categorie;
+namespace Amorytraore\Produit\Http\Controller\Categorie;
 
 use Illuminate\Http\Request;
-use Sm\Produit\Model\Categorie;
+use Amorytraore\Produit\Model\Categorie;
 use App\Http\Controllers\Controller;
 
 class CategoriesController extends Controller

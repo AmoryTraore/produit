@@ -1,5 +1,5 @@
 <?php
-namespace Sm\Produit; 
+namespace Amorytraore\Produit; 
 use Illuminate\Support\ServiceProvider;
 
 class ProduitServiceProvider extends ServiceProvider{

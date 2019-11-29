@@ -1,8 +1,8 @@
 <?php
 
-namespace Sm\Produit\Model;
+namespace Amorytraore\Produit\Model;
 
-use Sm\Produit\Model\Categorie;
+use Amorytraore\Produit\Model\Categorie;
 use Illuminate\Database\Eloquent\Model;
 
 class Produit extends Model

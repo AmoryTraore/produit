@@ -1,5 +1,5 @@
 <?php
-Route::group(['namespace'=>'Sm\Produit\Http\Controller'], function(){
+Route::group(['namespace'=>'Amorytraore\Produit\Http\Controller'], function(){
 
     Route::get('/accueil',                                'PagesController@index')->name('accueil');
     Route::get('/produit',                          'Produit\ProduitsController@index')->name('liste');

@@ -1,6 +1,6 @@
 <?php
 
-namespace Sm\Produit\Http\Controller;
+namespace Amorytraore\Produit\Http\Controller;
 
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;

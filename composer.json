@@ -1,5 +1,5 @@
 {
-    "name": "sm/produit",
+    "name": "Amorytraore/produit",
     "description": "Creation de package de gestion de produit",
     "type": "library",
     "license": "MIT",
@@ -13,7 +13,7 @@
    
     "autoload": {
         "psr-4": {
-            "Sm\\Produit\\": "src/"
+            "Amorytraore\\Produit\\": "src/"
         }
     }
 }
