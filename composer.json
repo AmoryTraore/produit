@@ -10,7 +10,13 @@
         }
     ],
     "minimum-stability": "dev",
-   
+   "extra": {
+        "laravel": {
+            "providers": [
+                "Amorytraore\\Produit\\ProduitServiceProvider"
+            ]
+        }
+    },
     "autoload": {
         "psr-4": {
             "Amorytraore\\Produit\\": "src/"
